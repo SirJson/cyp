@@ -4,7 +4,7 @@
 
 This is my personal fork where you find a bunch of WIP stuff and experiements that improvement the CYP user experience. When I started this fork I found this player to be a lightweight, good looking solution for people who want to control a MPD system without running a Linux distro or want to use mobile apps all the time. Most fixes and improvments will for now be focused on allowing CYP to be a more complete experience especially on desktops and with non-developers.
 
-What I might be working on can be found in the projects section.
+What I was working the last time I updated this page can be found in the projects section.
 
 I will still see if I can upstream what is needed or wanted upstream because I do not plan to fork and rebrand this as my project and I think I might not be the only one benefiting from these improvments.
 
