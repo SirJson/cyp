@@ -1,5 +1,19 @@
 # CYP: Control Your Player
 
+## What's the purpose of this fork?
+
+This is my personal fork where you find a bunch of WIP stuff and experiements that improvement the CYP user experience. When I started this fork I found this player to be a lightweight, good looking solution for people who want to control a MPD system without running a Linux distro or want to use mobile apps all the time. Most fixes and improvments will for now be focused on allowing CYP to be a more complete experience especially on desktops and with non-developers.
+
+What I might be working on can be found in the projects section.
+
+I will still see if I can upstream what is needed or wanted upstream because I do not plan to fork and rebrand this as my project and I think I might not be the only one benefiting from these improvments.
+
+I also understand that not all of my issues align with what the original author intended, meaning I can't say what will make it and if something will make it at all. 
+
+**Don't take my word for anything until there is a upstream PR with a changeset.**
+
+---
+
 CYP is a web-based frontend for [MPD](https://www.musicpd.org/), the Music Player Daemon. You can use it to control the playback without having to install native application(s). It works in modern web browsers, both desktop and mobile.
 
 ## Screenshots
